@@ -1,5 +1,5 @@
 # CityU_Joint
-香港城市大学联合培养交流群
+香港城市大学联合培养交流群: 如果二维码有效期过期，请通过邮件或Pull Issue的形式联系我。
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
