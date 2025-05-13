@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/likaiucas/HK_Joint_PhD/blob/main/image2.png">
+  <a href="https://github.com/likaiucas/HK_Joint_PhD/blob/main/image2.jpg">
     <img src="image2.jpg" alt="Logo" width="400" height="512">
   </a>
 
